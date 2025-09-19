@@ -6,5 +6,10 @@ namespace Ejercicio2
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Esto es un mensaje");
+        }
     }
 }
